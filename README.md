@@ -12,3 +12,6 @@
 - toBigDecimal
 - DecimalFormat
 - 밝은 테마와 어두운 테마에서의 color 다르게 적용하기
+
+https://github.com/AndroidStudyOrg/Calculator/assets/51990139/7cb19517-9980-4958-a12d-00010a50f6a6
+
